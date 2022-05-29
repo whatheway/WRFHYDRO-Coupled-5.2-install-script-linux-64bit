@@ -61,7 +61,7 @@ chmod 775 compile_MET_all.sh
 export PATH=$HOME/WRF-Hydro/MET-10.1.2/bin:$PATH            #Add MET executables to path
 
 cd 
-$HOME/WRF-4.4-install-script-linux-64bit/METplus_self_install_script_Linux_64bit.sh
+$HOME/WRFHYDRO-Coupled-5.2-install-script-linux-64bit/METplus_self_install_script_Linux_64bit.sh
 
 
 
