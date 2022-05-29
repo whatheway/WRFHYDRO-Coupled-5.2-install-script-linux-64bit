@@ -1,4 +1,4 @@
-# WRF-4.4-install-script
+# WRFHYDRO-4.4-install-script
 This is a script that installs all the libararies, software, programs, and geostatic data to run the Weather Research Forecast Model Hydro (WRF-4.4) with the option to run 3DVAR & 4DVAR observational data. 
 Script assumes a clean directory with no other WRF configure files in the directory.
 **This script does not install NETCDF4 to write compressed NetCDF4 files in parallel**
