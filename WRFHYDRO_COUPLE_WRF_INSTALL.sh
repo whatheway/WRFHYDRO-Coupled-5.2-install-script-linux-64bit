@@ -12,7 +12,7 @@
 #############################basic package managment############################
 sudo apt update                                                                                                   
 sudo apt upgrade                                                                                                    
-sudo apt install apt install gcc gfortran g++ libtool automake autoconf make m4 default-jre default-jdk csh ksh tcsh okular cmake time xorg openbox xauth git python3.9 mlocate
+sudo apt install apt gcc gfortran g++ libtool automake autoconf make m4 default-jre default-jdk csh ksh tcsh okular cmake time xorg openbox xauth git python3.9 mlocate
 
 
 ##############################Directory Listing############################
